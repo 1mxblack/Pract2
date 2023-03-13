@@ -1,0 +1,7 @@
+﻿  p2.c.cpp
+C:\Users\admin\source\repos\p2.c\p2.c\p2.c.cpp(55,22): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\admin\source\repos\p2.c\p2.c\p2.c.cpp(84,42): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "_T"
+C:\Users\admin\source\repos\p2.c\p2.c\p2.c.cpp(84,42): warning C4473: "wprintf": передано недостаточно аргументов для строки формата
+C:\Users\admin\source\repos\p2.c\p2.c\p2.c.cpp(84,42): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+C:\Users\admin\source\repos\p2.c\p2.c\p2.c.cpp(84,42): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%s"
+  p2.c.vcxproj -> C:\Users\admin\source\repos\p2.c\Debug\p2.c.exe
